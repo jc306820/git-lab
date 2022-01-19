@@ -65,3 +65,7 @@ Answer 11)
 There were errors about fetching and they were rejected because it is not stuff i have done locally.
 
 Answer 12)
+Yes
+
+Answer 13
+.  ..  .git  .gitignore  README.md
